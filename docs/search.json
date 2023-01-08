@@ -14,11 +14,18 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "posts/photobioreactors/index.html",
+    "href": "posts/photobioreactors/index.html",
+    "title": "Notes on Photobioreactors",
+    "section": "",
+    "text": "Some notes…some more\n\nusing Plots\n\nplot(sin, \n     x->sin(2x), \n     0, \n     2π, \n     leg=false, \n     fill=(0,:lavender))\n\n\n\n\nFigure 1: Parametric Plots"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "A Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "make functor go brrrrr…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarbon Sequestration in Timber\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 8, 2022\n\n\nMax Wall\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Photobioreactors\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nMax Wall\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +33,47 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "posts/timber-carbon-project-intro/index.html",
+    "href": "posts/timber-carbon-project-intro/index.html",
+    "title": "Carbon Sequestration in Timber",
+    "section": "",
+    "text": "To avoid catastrophic climate change, not only do we need to curb emissions, we’ll also probably have to pull a bunch of C02 out of the air. How much? A 2017 study estimated that we’ll need to sequester ~200 billion tons of C02 by 2050 1. That’s about the weight of two million aircraft carriers.\nTrees seem to be pretty good at sequestering carbon. In fact, a recent study suggested that the IPCC goal of reforesting 1 billion hectares would result in ~205 billion tons of carbon sequestered 2. Perfect! Unless… we don’t end up reforesting those 1 billion ha after all. From a cursory google search, it sounds like the global market for wood products is expected to grow by 1/3 to $900 billion by 2026 3. And we’re gonna need a lot more food by 2050…\n\n\n\n\nFootnotes\n\n\nMac Dowell, N., Fennell, P., Shah, N. et al. The role of CO2 capture and utilization in mitigating climate change. Nature Clim Change 7, 243–249 (2017). https://doi.org/10.1038/nclimate3231↩︎\nJean-Francois Bastin, Yelena Finegold, Claude Garcia, Danilo Mollicone, Marcelo Rezende, Devin Routh, Constantin M. Zohner and Thomas W. Crowther. The global tree restoration potential. Science 365 (6448), 76-79. DOI: 10.1126/science.aax0848↩︎\nhttps://www.reportlinker.com/p06251038/Wood-Products-Global-Market-Report.html?utm_source=GNW↩︎"
+  },
+  {
+    "objectID": "nested_sampling_book/intro.html",
+    "href": "nested_sampling_book/intro.html",
+    "title": "Just(Max Wall)",
+    "section": "",
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming."
+  },
+  {
+    "objectID": "nested_sampling_book/index.html",
+    "href": "nested_sampling_book/index.html",
+    "title": "Just(Max Wall)",
+    "section": "",
+    "text": "Welcome to the Nested Sampling Book. This is a work in progress."
+  },
+  {
+    "objectID": "nested_sampling_book/summary.html",
+    "href": "nested_sampling_book/summary.html",
+    "title": "Just(Max Wall)",
+    "section": "",
+    "text": "Summary\nIn summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "nested_sampling_book/references.html",
+    "href": "nested_sampling_book/references.html",
+    "title": "Just(Max Wall)",
+    "section": "",
+    "text": "References"
+  },
+  {
+    "objectID": "notebooks/nested_sampling.html",
+    "href": "notebooks/nested_sampling.html",
+    "title": "Just(Max Wall)",
+    "section": "",
+    "text": "import Random\n\n\nRandom.uniform()\n\nMethodError: MethodError: no method matching uniform()\nClosest candidates are:\n  uniform(!Matched::Type{T}) where T at /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Random/src/Random.jl:241"
   }
 ]

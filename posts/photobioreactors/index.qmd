@@ -1,0 +1,26 @@
+---
+title: "Notes on Photobioreactors"
+author: "Max Wall"
+date: "2022-11-01"
+categories: [news, code, analysis]
+jupyter: julia-1.8
+---
+
+Some notes...some more
+
+
+```{julia}
+
+#| label: fig-parametric
+#| fig-cap: "Parametric Plots"
+
+using Plots
+
+plot(sin, 
+     x->sin(2x), 
+     0, 
+     2π, 
+     leg=false, 
+     fill=(0,:lavender))
+```
+

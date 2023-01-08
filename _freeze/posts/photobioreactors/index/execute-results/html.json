@@ -1,0 +1,11 @@
+{
+  "hash": "164eae91914f1c4d4b46f347f18fec0b",
+  "result": {
+    "markdown": "---\ntitle: Notes on Photobioreactors\nauthor: Max Wall\ndate: '2022-11-01'\ncategories:\n  - news\n  - code\n  - analysis\n---\n\nSome notes...some more\n\n::: {.cell execution_count=1}\n``` {.julia .cell-code}\nusing Plots\n\nplot(sin, \n     x->sin(2x), \n     0, \n     2π, \n     leg=false, \n     fill=(0,:lavender))\n```\n\n::: {.cell-output .cell-output-display execution_count=2}\n![Parametric Plots](index_files/figure-html/fig-parametric-output-1.svg){#fig-parametric}\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

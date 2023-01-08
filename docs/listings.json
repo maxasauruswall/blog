@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/timber-carbon-project-intro/index.html",
       "/posts/post-with-code/index.html",
+      "/posts/photobioreactors/index.html",
       "/posts/welcome/index.html"
     ]
   }

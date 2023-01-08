@@ -1,0 +1,21 @@
+---
+title: "Carbon Sequestration in Timber"
+author: "Max Wall"
+date: "2022-11-08"
+categories: [news, code, analysis]
+jupyter: julia-1.8
+---
+
+To avoid catastrophic climate change, not only do we need to curb emissions, we'll also probably have to pull a bunch of C02 out of the air. How much? A 2017 study estimated that we'll need to sequester ~200 billion tons of C02 by 2050 [^1]. That's about the weight of two million aircraft carriers.
+
+Trees seem to be pretty good at sequestering carbon. In fact, a recent study suggested that the IPCC goal of reforesting 1 billion hectares would result in ~205 billion tons of carbon sequestered [^2]. Perfect! Unless... we don't end up reforesting those 1 billion ha after all. From a cursory google search, it sounds like the global market for wood products is expected to grow by 1/3 to $900 billion by 2026 [^3]. And we're gonna need a lot more food by 2050... 
+
+
+
+
+
+[^1]: Mac Dowell, N., Fennell, P., Shah, N. et al. The role of CO2 capture and utilization in mitigating climate change. Nature Clim Change 7, 243–249 (2017). https://doi.org/10.1038/nclimate3231
+
+[^2]: Jean-Francois Bastin, Yelena Finegold, Claude Garcia, Danilo Mollicone, Marcelo Rezende, Devin Routh, Constantin M. Zohner and Thomas W. Crowther. The global tree restoration potential. Science 365 (6448), 76-79. DOI: 10.1126/science.aax0848
+
+[^3]: https://www.reportlinker.com/p06251038/Wood-Products-Global-Market-Report.html?utm_source=GNW
